@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? https://blog.steven.tk
 
-[![Steven's GitHub stats](https://github-readme-stats.stevenw.cc/api?username=steven-wzh)](https://github.com/Steven-WZH)
+[![Steven's GitHub stats](https://github-readme-stats.stevenw.cc/api?username=steven-wzh&theme=monokai)](https://github.com/Steven-WZH)
 
 <!---
 Steven-WZH/Steven-WZH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
