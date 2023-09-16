@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? https://blog.steven.tk
+- 📫 How to reach me ? https://blog.stevenw.cc
 
 [![Steven's GitHub stats](https://github-readme-stats.stevenw.cc/api?username=steven-wzh&theme=monokai)](https://github.com/Steven-WZH)
 
